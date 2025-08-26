@@ -1,0 +1,27 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+build/
+dist/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Data / artifacts
+*.pkl
+*.joblib
+*.log
+
+# Git
+.git
+.gitignore
+
